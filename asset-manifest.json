@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/theBlackBoard/static/css/main.7d6745ae.chunk.css",
+    "main.js": "/theBlackBoard/static/js/main.48d7ded3.chunk.js",
+    "main.js.map": "/theBlackBoard/static/js/main.48d7ded3.chunk.js.map",
+    "runtime-main.js": "/theBlackBoard/static/js/runtime-main.c72882cf.js",
+    "runtime-main.js.map": "/theBlackBoard/static/js/runtime-main.c72882cf.js.map",
+    "static/js/2.b3c42018.chunk.js": "/theBlackBoard/static/js/2.b3c42018.chunk.js",
+    "static/js/2.b3c42018.chunk.js.map": "/theBlackBoard/static/js/2.b3c42018.chunk.js.map",
+    "static/js/3.d3001ca5.chunk.js": "/theBlackBoard/static/js/3.d3001ca5.chunk.js",
+    "static/js/3.d3001ca5.chunk.js.map": "/theBlackBoard/static/js/3.d3001ca5.chunk.js.map",
+    "index.html": "/theBlackBoard/index.html",
+    "static/css/main.7d6745ae.chunk.css.map": "/theBlackBoard/static/css/main.7d6745ae.chunk.css.map",
+    "static/js/2.b3c42018.chunk.js.LICENSE.txt": "/theBlackBoard/static/js/2.b3c42018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c72882cf.js",
+    "static/js/2.b3c42018.chunk.js",
+    "static/css/main.7d6745ae.chunk.css",
+    "static/js/main.48d7ded3.chunk.js"
+  ]
+}
